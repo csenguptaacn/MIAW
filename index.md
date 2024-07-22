@@ -23,7 +23,7 @@
             }
           );
         },
-        'https://sonyhondamobility01--devpro1.sandbox.lightning.force.com'
+        'https://sonyhondamobility01--devpro1.sandbox.lightning.force.com/'
       );
     </script>
   </body>
